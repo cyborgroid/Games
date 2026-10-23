@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=メンヘラカノジョ -脱出ゲーム
+Exec=bash /home/a71143055/Games/menhera-kanojo.sh
+Icon=/home/a71143055/Games/menhera-kanojo.png
+Terminal=false
+Categories=Game;
